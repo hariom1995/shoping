@@ -1,0 +1,20 @@
+.item_box {
+  border: 1px solid lightgrey;
+  padding: 15px;
+  margin-top: 5px;
+}
+.close_btn {
+  color: #fff;
+  background-color: red;
+  cursor: pointer;
+  width: fit-content;
+  padding: 12px 19px;
+  border-radius: 27px;
+  display: block;
+  margin: auto;
+}
+.checkout_btn {
+  background-color: #183153 !important;
+  margin-left: auto;
+  display: block !important;
+}

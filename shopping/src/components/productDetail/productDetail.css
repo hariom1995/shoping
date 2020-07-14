@@ -1,0 +1,8 @@
+.product_image {
+  height: 360px;
+}
+.add-to-cart-btn{
+    background-color: #FFA500 !important;
+    color: #fff !important;
+    border: 1px solid #FFA500 !important;
+}
